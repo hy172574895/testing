@@ -339,3 +339,4 @@ func NormalPrintOut(msg HintMsg){
   fmt.Print(string(returnMsg))
   // fmt.Print("|"+returnMsg_len+string(returnMsg))
 }
+this a test
